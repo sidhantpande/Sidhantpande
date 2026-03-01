@@ -153,11 +153,11 @@ System Design, Advanced Angular, Cloud Architecture, Machine Learning
 
 | Certification | Issuer |
 |---------------|--------|
-| Core Programming and Design Thinking | — |
-| Artificial Coding Curriculum Completion | — |
+| Core Programming and Design Thinking | WhiteHat Jr |
+| Artificial Coding Curriculum Completion | WhiteHat Jr |
 | Java Basic Certificate | HackerRank |
 | Version Control | Meta |
-| UI/UX Designer for Game Development | — |
+| UI/UX Designer for Game Development | WhiteHat Jr |
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Rainbow divider" width="100%" />
 
