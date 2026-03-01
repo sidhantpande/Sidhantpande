@@ -158,8 +158,12 @@ System Design, Advanced Angular, Cloud Architecture
 
 <br>
 <p align="center">
-  <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Sidhant185&show_icons=true&theme=tokyonight&v=3" />
-  <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Sidhant185&layout=compact&theme=tokyonight&v=3" />
+  <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Sidhant185&show_icons=true&theme=radical&v=4" />
+  <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Sidhant185&layout=compact&theme=radical&v=4" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sidhant185&theme=radical&v=2" alt="GitHub Streak" />
 </p>
 
 <!-- GitHub Snake Animation -->
