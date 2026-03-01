@@ -8,7 +8,7 @@
   <a href="https://github.com/Sidhant185"><img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" /></a>
 </p>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Rainbow divider" width="100%" />
 
 ## 💬 About Me
 
@@ -16,7 +16,7 @@
 
 I ship code that works.
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Rainbow divider" width="100%" />
 
 ## 🎯 What I've Built
 
@@ -49,7 +49,7 @@ DevOps:      Environment-based configs, error handling
 
 🔗 [GitHub](https://github.com/Sidhant185/StuddyBuddy) | 🌐 Live (Campus Only)
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Rainbow divider" width="100%" />
 
 ### 2️⃣ **Vedam Open Source — Admin Dashboard**  
 *Enterprise-Grade Community Management*
@@ -80,7 +80,7 @@ Architecture: Virtual scrolling, request deduplication, exponential backoff
 
 🔗 [GitHub](https://github.com/vstopensource/dashboard) | 🌐 Live
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Rainbow divider" width="100%" />
 
 ### 3️⃣ **College Cultural Website**  
 *Production Platform · Real Campus Traffic*
@@ -102,7 +102,7 @@ Features:    Event listings, registration forms, live updates, scheduling
 
 🔗 [GitHub](https://github.com/Sidhant185) | 🌐 Live
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Rainbow divider" width="100%" />
 
 ### 4️⃣ **Vedam Open Source Website**  
 *Student Onboarding Platform*
@@ -122,7 +122,7 @@ Backend:     Firebase
 
 🔗 [GitHub](https://github.com/vstopensource/website) | 🌐 Live
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Rainbow divider" width="100%" />
 
 ## 🛠️ Technical Skills
 
@@ -135,7 +135,7 @@ Backend:     Firebase
 | **AI/APIs** | Gemini AI, Piston API, GitHub API, custom integrations |
 | **Learning** | System Design, Advanced Angular, Cloud Architecture |
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Rainbow divider" width="100%" />
 
 ## 📊 Developer Stats
 
@@ -147,7 +147,22 @@ Backend:     Firebase
 | **Real Users** | 100+ students actively using my projects |
 | **Paid Clients** | 2+ freelance projects completed |
 
----
+<br>
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Sidhant185&show_icons=true&theme=tokyonight&v=1" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sidhant185&layout=compact&theme=tokyonight&v=1" />
+</p>
+
+<!-- GitHub Snake Animation -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sidhant185/Sidhant185/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sidhant185/Sidhant185/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Sidhant185/Sidhant185/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Rainbow divider" width="100%" />
 
 ## 🔧 What I Focus On
 
@@ -157,7 +172,7 @@ Backend:     Firebase
 ✅ **Problem Solving** — Building features that actually matter (AI evaluation, real-time updates, smart caching).  
 ✅ **Reliability** — Products used by 100+ students, handling real traffic.
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Rainbow divider" width="100%" />
 
 ## 🎯 Open To
 
@@ -166,7 +181,7 @@ Backend:     Firebase
 - **Open source collaboration** — Contributing or reviewing code
 - **Internships/part-time roles** — Learning while shipping
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Rainbow divider" width="100%" />
 
 ## 📬 Let's Build
 
