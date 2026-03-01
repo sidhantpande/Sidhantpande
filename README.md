@@ -9,7 +9,7 @@ President — Open Source Club @ Vedam School of Technology
 
 ---
 
-## 👨‍💻 About
+## About
 
 Backend-focused engineer building scalable web systems using Java, Spring Boot, and React.
 
@@ -17,11 +17,11 @@ Leading a 100+ member Open Source community and driving collaborative engineerin
 
 ---
 
-## 📈 GitHub Analytics
+## GitHub Analytics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Sidhant185&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sidhant185&layout=compact&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Sidhant185&show_icons=true&theme=tokyonight&v=1" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sidhant185&layout=compact&theme=tokyonight&v=1" />
 </p>
 
 <!-- GitHub Snake Animation -->
@@ -35,7 +35,7 @@ Leading a 100+ member Open Source community and driving collaborative engineerin
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 **Backend:** Java, Spring Boot, Node.js, Python  
 **Frontend:** React, HTML, CSS, JavaScript  
@@ -44,28 +44,28 @@ Leading a 100+ member Open Source community and driving collaborative engineerin
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🧠 [NOVA](https://github.com/Sidhant185/NOVA) — Voice AI Assistant Platform
+### [NOVA](https://github.com/Sidhant185/NOVA) — Voice AI Assistant Platform
 - Real-time conversational system using WebSockets
 - Persistent memory architecture & emotion-aware response pipeline
 - Flask backend with modular Groq/Gemini AI integrations
 - Designed for scalability and extensibility
 
-### 🧑‍💻 [StuddyBuddy](https://github.com/Sidhant185/StuddyBuddy) — Contest Evaluation System
+### [StuddyBuddy](https://github.com/Sidhant185/StuddyBuddy) — Contest Evaluation System
 - Automated code execution using secure Java sandbox
 - AI-powered feedback generation via Gemini
 - Spring Boot REST backend mapped to Firebase Firestore
 - React SPA frontend designed for multi-user contest scalability
 
-### 🌐 [VSTOpenSource](https://github.com/vstopensource) — Community Organization
+### [VSTOpenSource](https://github.com/vstopensource) — Community Organization
 - Technical roadmap planning and internal tooling development
 - Contributor workflow management
 - Git-based collaboration standards
 
 ---
 
-## 🌍 Open Source Work
+## Open Source Work
 
 - Contributing to community-driven repositories 
 - Reviewing pull requests within VSTOpenSource
@@ -73,7 +73,7 @@ Leading a 100+ member Open Source community and driving collaborative engineerin
 
 ---
 
-## 🎯 Impact
+## Impact
 
 - 100+ active developers led
 - 20+ technical sessions conducted (Git/GitHub, Web Dev)
@@ -82,7 +82,7 @@ Leading a 100+ member Open Source community and driving collaborative engineerin
 
 ---
 
-## 📮 Let's Connect
+## Let's Connect
 <p align="left">
   <a href="mailto:sidhantpande222@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/sidhantpande/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
