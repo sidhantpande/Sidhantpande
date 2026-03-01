@@ -3,6 +3,10 @@
 </p>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sidhant185&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
+</p>
+
+<p align="center">
   <a href="mailto:sidhantpande222@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/sidhantpande/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/Sidhant185"><img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" /></a>
@@ -20,7 +24,7 @@ I ship code that works.
 
 ## 🎯 What I've Built
 
-### 1️⃣ **Study Buddy** — AI-Powered Learning Platform  
+### 🚀 [Study Buddy](https://github.com/Sidhant185/StuddyBuddy) — AI-Powered Learning Platform  
 *Hackathon Winner · Live Campus Product*
 
 A complete learning ecosystem that evaluates code **and learns from it**. Monaco Editor for real-time coding, instant execution, AI-powered feedback, and an adaptive practice engine.
@@ -51,7 +55,7 @@ DevOps:      Environment-based configs, error handling
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Rainbow divider" width="100%" />
 
-### 2️⃣ **Vedam Open Source — Admin Dashboard**  
+### 🏢 [Vedam Open Source — Admin Dashboard](https://github.com/vstopensource/dashboard)  
 *Enterprise-Grade Community Management*
 
 Professional dashboard for tracking 500+ students, their GitHub contributions, form submissions, and real-time analytics.
@@ -82,7 +86,7 @@ Architecture: Virtual scrolling, request deduplication, exponential backoff
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Rainbow divider" width="100%" />
 
-### 3️⃣ **College Cultural Website**  
+### 🎭 [College Cultural Website](https://github.com/Sidhant185)  
 *Production Platform · Real Campus Traffic*
 
 Event management, student registration, live announcements — used by 100+ students during actual events.
@@ -104,7 +108,7 @@ Features:    Event listings, registration forms, live updates, scheduling
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Rainbow divider" width="100%" />
 
-### 4️⃣ **Vedam Open Source Website**  
+### 🌐 [Vedam Open Source Website](https://github.com/vstopensource/website)  
 *Student Onboarding Platform*
 
 Complete website for recruiting and onboarding students into open source contribution.
@@ -147,6 +151,12 @@ System Design, Advanced Angular, Cloud Architecture
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Rainbow divider" width="100%" />
 
 ## 📊 Developer Stats
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Sidhant185&theme=radical&column=7&no-frame=true&no-bg=true&margin-w=15" alt="Sidhant185's Trophies" />
+  </a>
+</p>
 
 | Metric | Status |
 |--------|--------|
@@ -198,10 +208,10 @@ System Design, Advanced Angular, Cloud Architecture
 
 ## 📬 Let's Build
 
-**Email:** sidhantpande222@gmail.com  
-**LinkedIn:** linkedin.com/in/sidhantpande  
-**GitHub:** github.com/Sidhant185
+Feel free to reach out if you want to collaborate on open-source, participate in a hackathon, or just chat about tech!
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sidhant185&color=blueviolet&style=flat-square" />
+<p align="left">
+  <a href="mailto:sidhantpande222@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/sidhantpande/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/Sidhant185"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
