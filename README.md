@@ -152,12 +152,6 @@ System Design, Advanced Angular, Cloud Architecture
 
 ## 📊 Developer Stats
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Sidhant185&theme=radical&column=7&no-frame=true&no-bg=true&margin-w=15" alt="Sidhant185's Trophies" />
-  </a>
-</p>
-
 | Metric | Status |
 |--------|--------|
 | **Projects Shipped** | 8+ live, production-grade apps |
