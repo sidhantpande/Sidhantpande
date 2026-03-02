@@ -7,11 +7,11 @@
 </p>
 
 <p align="center">
-  <a href="https://sidhantpande.in"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=flat-square&logo=globe&logoColor=white" /></a>
-  <a href="mailto:sidhantpande222@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/sidhantpande/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/Sidhant185"><img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" /></a>
-  <a href="https://instagram.com/sidhant908"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
+  <a href="https://sidhantpande.in"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=globe&logoColor=white&logoSize=large" /></a>
+  <a href="mailto:sidhantpande222@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&logoSize=large" /></a>
+  <a href="https://www.linkedin.com/in/sidhantpande/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&logoSize=large" /></a>
+  <a href="https://github.com/Sidhant185"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&logoSize=large" /></a>
+  <a href="https://instagram.com/sidhant908"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&logoSize=large" /></a>
 </p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Rainbow divider" width="100%" />
@@ -23,6 +23,28 @@
 I build, ship, and maintain full-stack applications used by real users. From enterprise-grade admin dashboards to AI-powered assistants, I focus on writing production-quality code that scales. I lead student tech initiatives, direct content strategies, and have a track record of delivering under tight deadlines — including winning a hackathon in 24 hours and gathering 400 attendees for an event in 30 hours with a 60% conversion rate.
 
 I ship code that works.
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Rainbow divider" width="100%" />
+
+## 🛠️ Technical Skills
+
+**🌐 Frontend**<br>
+<img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/> <img src="https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/> <br><br>
+
+**⚙️ Backend**<br>
+<img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/> <img src="https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"/> <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/REST_APIs-%23000000.svg?style=for-the-badge&logo=json&logoColor=white"/> <img src="https://img.shields.io/badge/Real--time_Arch-%23000000.svg?style=for-the-badge&logo=socket.io&logoColor=white"/> <br><br>
+
+**🗄️ Databases**<br>
+<img src="https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/> <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/> <br><br>
+
+**🛠️ DevOps & Tools**<br>
+<img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white"/> <img src="https://img.shields.io/badge/Netlify-%2300C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white"/> <img src="https://img.shields.io/badge/CI/CD-%23000000.svg?style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Version_Control-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/> <br><br>
+
+**🤖 AI & APIs**<br>
+<img src="https://img.shields.io/badge/Gemini_AI-%238E75B2.svg?style=for-the-badge&logo=googlegemini&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub_API-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Piston_API-%23000000.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/NLP-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white"/> <br><br>
+
+**🌱 Currently Learning**<br>
+System Design, Advanced Angular, Cloud Architecture, Machine Learning
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Rainbow divider" width="100%" />
 
@@ -126,29 +148,7 @@ Advanced AI-powered personal assistant applications — automating daily tasks, 
 Tech:  Python, Speech Recognition, NLP, API Integrations, Automation Scripts
 ```
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Rainbow divider" width="100%" />
 
-## 🛠️ Technical Skills
-
-**🌐 Frontend**<br>
-<img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/> <img src="https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/> <br><br>
-
-**⚙️ Backend**<br>
-<img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/> <img src="https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"/> <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/REST_APIs-%23000000.svg?style=for-the-badge&logo=json&logoColor=white"/> <img src="https://img.shields.io/badge/Real--time_Arch-%23000000.svg?style=for-the-badge&logo=socket.io&logoColor=white"/> <br><br>
-
-**🗄️ Databases**<br>
-<img src="https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/> <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/> <br><br>
-
-**🛠️ DevOps & Tools**<br>
-<img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white"/> <img src="https://img.shields.io/badge/Netlify-%2300C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white"/> <img src="https://img.shields.io/badge/CI/CD-%23000000.svg?style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Version_Control-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/> <br><br>
-
-**🤖 AI & APIs**<br>
-<img src="https://img.shields.io/badge/Gemini_AI-%238E75B2.svg?style=for-the-badge&logo=googlegemini&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub_API-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Piston_API-%23000000.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/NLP-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white"/> <br><br>
-
-**🌱 Currently Learning**<br>
-System Design, Advanced Angular, Cloud Architecture, Machine Learning
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Rainbow divider" width="100%" />
 
 ## 📜 Certifications
 
@@ -210,9 +210,9 @@ System Design, Advanced Angular, Cloud Architecture, Machine Learning
 Feel free to reach out if you want to collaborate on open-source, participate in a hackathon, or just chat about tech!
 
 <p align="left">
-  <a href="https://sidhantpande.in"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=globe&logoColor=white" /></a>
-  <a href="mailto:sidhantpande222@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/sidhantpande/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/Sidhant185"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://instagram.com/sidhant908"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://sidhantpande.in"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=globe&logoColor=white&logoSize=large" /></a>
+  <a href="mailto:sidhantpande222@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&logoSize=large" /></a>
+  <a href="https://www.linkedin.com/in/sidhantpande/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&logoSize=large" /></a>
+  <a href="https://github.com/Sidhant185"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&logoSize=large" /></a>
+  <a href="https://instagram.com/sidhant908"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&logoSize=large" /></a>
 </p>
