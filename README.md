@@ -7,16 +7,6 @@
 </p>
 
 <p align="center">
-  <a href="https://sidhantpande.in">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="assets/portfolio-banner.svg">
-      <source media="(prefers-color-scheme: light)" srcset="assets/portfolio-banner.svg">
-      <img alt="Portfolio Banner" src="assets/portfolio-banner.svg" width="100%">
-    </picture>
-  </a>
-</p>
-
-<p align="center">
   <a href="https://sidhantpande.in"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=flat-square&logo=globe&logoColor=white" /></a>
   <a href="mailto:sidhantpande222@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/sidhantpande/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
@@ -27,12 +17,6 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Rainbow divider" width="100%" />
 
 ## 💬 About Me
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=38BDF8&width=435&lines=Full-Stack+Web+Developer;AI+Enthusiast;Open+Source+Lead;Problem+Solver" alt="Typing SVG" />
-  </a>
-</p>
 
 **B-Tech CS (AI) Student @ Vedam School of Technology** | **Full-Stack Web Developer** | **President, Open Source Club**
 
@@ -179,12 +163,6 @@ System Design, Advanced Angular, Cloud Architecture, Machine Learning
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Rainbow divider" width="100%" />
 
 ## 📊 GitHub Stats
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Sidhant185&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Sidhant185 Trophies" />
-  </a>
-</p>
 
 <br>
 <p align="center">
