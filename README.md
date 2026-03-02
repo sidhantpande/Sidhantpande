@@ -7,6 +7,17 @@
 </p>
 
 <p align="center">
+  <a href="https://sidhantpande.in">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/portfolio-banner.svg">
+      <source media="(prefers-color-scheme: light)" srcset="assets/portfolio-banner.svg">
+      <img alt="Portfolio Banner" src="assets/portfolio-banner.svg" width="100%">
+    </picture>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://sidhantpande.in"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=flat-square&logo=globe&logoColor=white" /></a>
   <a href="mailto:sidhantpande222@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/sidhantpande/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/Sidhant185"><img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" /></a>
@@ -16,6 +27,12 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Rainbow divider" width="100%" />
 
 ## 💬 About Me
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=38BDF8&width=435&lines=Full-Stack+Web+Developer;AI+Enthusiast;Open+Source+Lead;Problem+Solver" alt="Typing SVG" />
+  </a>
+</p>
 
 **B-Tech CS (AI) Student @ Vedam School of Technology** | **Full-Stack Web Developer** | **President, Open Source Club**
 
@@ -163,6 +180,12 @@ System Design, Advanced Angular, Cloud Architecture, Machine Learning
 
 ## 📊 GitHub Stats
 
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Sidhant185&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Sidhant185 Trophies" />
+  </a>
+</p>
+
 <br>
 <p align="center">
   <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Sidhant185&show_icons=true&theme=radical&v=4" />
@@ -209,6 +232,7 @@ System Design, Advanced Angular, Cloud Architecture, Machine Learning
 Feel free to reach out if you want to collaborate on open-source, participate in a hackathon, or just chat about tech!
 
 <p align="left">
+  <a href="https://sidhantpande.in"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=globe&logoColor=white" /></a>
   <a href="mailto:sidhantpande222@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/sidhantpande/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/Sidhant185"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
