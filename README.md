@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:8E75B2&height=250&section=header&text=Sidhant%20Pande&fontSize=85&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20Integrator%20%7C%20Open%20Source%20Tech%20Lead&descAlignY=62&descFontSize=24" alt="Header" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Space+Grotesk&weight=700&size=40&pause=1000&color=2563EB&center=true&vCenter=true&width=800&height=100&lines=Hi,+I'm+Sidhant+Pande+🚀;Software+Engineer;AI+%26+Gen-AI+Integrator;Open+Source+Tech+Lead" alt="Typing SVG" />
 </div>
 
 <!-- PROFILE VIEWS -->
@@ -68,7 +68,7 @@ An AI-native educational tool for peer-to-peer learning. Built from zero to prod
 
 <p align="center">
   <a href="https://github.com/Sidhant185/StuddyBuddy">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sidhant185&repo=StuddyBuddy&theme=radical&hide_border=true&bg_color=0D1117" alt="StudyBuddy Repo Card" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Sidhant185&repo=StuddyBuddy&theme=radical&hide_border=true&bg_color=0D1117" alt="StudyBuddy Repo Card" />
   </a>
 </p>
 
@@ -78,10 +78,10 @@ Engineered the end-to-end ecosystems for *Code Nexus* (handling 400 attendees in
 
 <p align="center">
   <a href="https://github.com/vstopensource/website">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vstopensource&repo=website&theme=radical&hide_border=true&bg_color=0D1117" alt="VST Ecosystem Repo" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=vstopensource&repo=website&theme=radical&hide_border=true&bg_color=0D1117" alt="VST Ecosystem Repo" />
   </a>
   <a href="https://github.com/vstopensource/dashboard">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vstopensource&repo=dashboard&theme=radical&hide_border=true&bg_color=0D1117" alt="VST Admin Portal Repo" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=vstopensource&repo=dashboard&theme=radical&hide_border=true&bg_color=0D1117" alt="VST Admin Portal Repo" />
   </a>
 </p>
 
