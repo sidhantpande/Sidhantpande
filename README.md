@@ -47,19 +47,19 @@ I am a Full-Stack Software Engineer focused on designing indestructible, scalabl
 <div align="center">  
   <h3>Frontend & UI/UX</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,angular,vue,ts,js,tailwind,html,css" />
   </a>
   <br/>
 
   <h3>Backend & Core Processing</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,python,java,django,express" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python,django,java,spring" />
   </a>
   <br/>
 
   <h3>Databases & Architecture</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,postgres,firebase" />
+    <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,sqlite,firebase,supabase" />
   </a>
   <br/>
 
