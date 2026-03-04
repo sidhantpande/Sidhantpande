@@ -134,16 +134,29 @@ Tech Stack:   Python, Advanced Scheduling Algorithms, Data Structures
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Rainbow divider" width="100%" />
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sidhant185&theme=radical-noshadow&hide_border=true&bg_color=0D1117" width="100%" alt="Activity Graph" />
+</div>
 
 <br>
+
 <p align="center">
-  <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Sidhant185&show_icons=true&theme=radical&v=4" />
-  <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Sidhant185&layout=compact&theme=radical&v=4" />
+  <a href="https://github.com/Sidhant185">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Sidhant185&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Sidhant's GitHub Stats" />
+  </a>
+  <a href="https://github.com/Sidhant185">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sidhant185&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sidhant185&theme=radical&v=2" alt="GitHub Streak" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Sidhant185&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Sidhant's Trophies" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sidhant185&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </p>
 
 <!-- GitHub Snake Animation -->
@@ -157,29 +170,28 @@ Tech Stack:   Python, Advanced Scheduling Algorithms, Data Structures
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Rainbow divider" width="100%" />
 
-## 🔧 What I Focus On
+## 🌟 Core Philosophy & Engineering Focus
 
-✅ **Shipped Products** — Not tutorials. Not mockups. Live code used by real users.  
-✅ **Code Quality** — Enterprise patterns, CI/CD, security scanning, accessibility.  
-✅ **Full Stack** — Frontend to backend to database to deployment.  
-✅ **Leadership** — President of Open Source Club; led teams across tech-fests and events.  
-✅ **Problem Solving** — AI evaluation, real-time updates, smart caching, scheduling algorithms.  
-✅ **Reliability** — Products used by 100+ students, handling real traffic.
+I treat software engineering as a craft. When building applications, my priorities are:
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Rainbow divider" width="100%" />
-
-## 🎯 Open To
-
-- **Freelance projects** — Full-stack web apps, dashboards, AI integrations
-- **Hackathons & competitions** — Built a winning product in 24 hours
-- **Open source collaboration** — Contributing, reviewing, and leading
-- **Internships / part-time roles** — Learning while shipping
+- **Production-Ready Systems:** I engineer architectures capable of handling real-world traffic, utilizing asynchronous task queues, resilient database design, and cloud-native deployments.
+- **Code Quality & Reliability:** I integrate enterprise architectural patterns, comprehensive CI/CD pipelines, state management strategies, and secure API gateways.
+- **End-to-End Ownership:** From rigorous backend API development to polished, highly responsive frontend interfaces, I navigate and implement across the entire application stack.
+- **Leadership in Tech:** As the President of the Open Source Club, I proactively mentor fellow developers, direct cross-functional hackathon teams, and advocate for collaborative engineering cultures.
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Rainbow divider" width="100%" />
 
-## 📬 Let's Build Together
+## 🚀 Open To Collaboration
 
-Feel free to reach out if you want to collaborate on open-source, participate in a hackathon, or just chat about tech!
+I am inherently curious about complex technical bottlenecks and scalable system design. I am actively seeking:
+
+- **Software Engineering Internships / Junior Roles** where I can ship high-impact code.
+- **Freelance Contracts** focusing on full-stack modern web applications or AI/LLM integrations.
+- **Open Source Engagements** and strategic hackathon partnerships.
+
+<br>
+
+### 📬 Connect With Me
 
 <p align="left">
   <a href="https://sidhantpande.in"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=globe&logoColor=white&logoSize=large" /></a>
