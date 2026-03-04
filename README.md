@@ -64,64 +64,35 @@ System Design, Advanced Angular, Cloud Architecture, Machine Learning
 
 ## 🎯 Technical Projects
 
-A showcase of full-stack, AI, and community-driven applications — all built, deployed, and maintained by me.
+A showcase of full-stack, AI, and production-ready applications — engineered for scale, real-world users, and operational efficiency.
 
 ---
 
-### 🏛️ Open Source & Club Platforms
+### 🏛️ Scalable Platforms & Portals
 
-#### 🌐 [VST OpenSource Student Website](https://github.com/vstopensource/website)
-Interactive, user-facing platform for the university's Open Source Club — sharing resources, announcing events, and fostering a community of student developers.
-```
-Tech:  JavaScript, HTML, CSS, Firebase | Responsive Design
-```
-
-#### 🔒 [VST OpenSource Admin Portal](https://github.com/vstopensource/dashboard)
-Secure backend dashboard for club administrators to manage **500+ student registrations**, oversee content updates, and track club metrics with real-time analytics.
-```
-Tech:  Vanilla JS (ES6+), Firebase Firestore, GitHub REST/GraphQL API
-Arch:  Virtual scrolling, request deduplication, exponential backoff, CI/CD via GitHub Actions
+#### 🌐 [VST OpenSource Ecosystem](https://github.com/vstopensource/website) | [Admin Portal](https://github.com/vstopensource/dashboard)
+Comprehensive end-to-end ecosystem for the university's Open Source Club. Integrates an interactive user-facing portal with a secure backend dashboard to efficiently manage **500+ student registrations**, content operations, and real-time metrics.
+```text
+Architecture: Virtual scrolling, request deduplication, exponential backoff, CI/CD pipelines
+Tech Stack:   Vanilla JS (ES6+), Firebase Firestore, GitHub REST/GraphQL API
 ```
 
-#### 🎪 [Code Nexus Website](https://github.com/Sidhant185)
-High-conversion landing page and event portal for the "Code Nexus" tech event — facilitating rapid attendee onboarding and information distribution.
-```
-Tech:  HTML5, CSS3, JavaScript, Firebase
-```
-
-#### 📊 [Code Nexus Admin Dashboard](https://github.com/Sidhant185)
-Companion management system for Code Nexus organizers — real-time registration analytics, event scheduling tools, and participant data management.
-```
-Tech:  JavaScript, Firebase Firestore, REST APIs
-```
-
-#### 🎭 [Cultural Club Side-Wing Website](https://github.com/Sidhant185/Side-wing-Project)
-Dynamic web application showcasing the university cultural club's activities, upcoming performances, and handling new member onboarding.
-```
-Tech:  HTML5, CSS3, JavaScript, Firebase
-```
-
-#### 🎪 [Noesis Techfest Website](https://github.com/Sidhant185) | [Live Demo](https://noesistechfest.netlify.app)
-Official digital hub for the Noesis Tech-Fest — centralizing event schedules, registration workflows, and technical resources for hackathon participants and attendees.
-```
-Tech:  HTML5, CSS3, JavaScript, Firebase Hosting
+#### 📊 [Code Nexus Event Platform](https://github.com/Sidhant185)
+High-performance event management suite featuring rapid attendee onboarding workflows and a real-time administrative dashboard. Designed to process instant registration analytics and seamless schedule synchronization.
+```text
+Architecture: Distributed state management, responsive UI scaling, secure API routing
+Tech Stack:   Vanilla JS (ES6+), Firebase Firestore, REST APIs
 ```
 
 ---
 
-### 🛠️ Independent & Utility Applications
-
-#### 🎮 [E-sports Website (BGMI)](https://github.com/Sidhant185/Esports-website) | [Live Demo](https://bgmi-esports-arena.netlify.app)
-Competitive gaming platform for organizing BGMI tournaments — featuring team registration flows, bracket tracking, and live updates.
-```
-Tech:  HTML5, CSS3, JavaScript, Responsive Design
-```
+### 🛠️ Advanced Software & AI Applications
 
 #### 📚 [Study Buddy](https://github.com/Sidhant185/StuddyBuddy)
 *Hackathon Winner · Live Campus Product*
 
 Collaborative educational tool connecting students for peer-to-peer learning. Features AI-powered code evaluation, an adaptive practice engine, Monaco Editor for real-time coding, and instant execution.
-```
+```text
 Frontend:    React 18, Vite, Tailwind CSS, Monaco Editor
 Backend:     Node.js, REST APIs, Piston API integration
 Database:    Firebase Firestore, Firebase Auth
@@ -129,23 +100,24 @@ AI/ML:       Gemini 2.0 API, context-aware evaluation
 DevOps:      Environment-based configs, CI/CD ready
 ```
 **Key Features:**
-- Built in **24 hours** at a hackathon, now used by **100+ students**
-- Monaco Editor (VS Code in the browser)
-- Piston API for sandboxed code execution
-- Gemini AI evaluates code + explains weaknesses
-- Smart practice engine: weighted algorithm learns your weak areas
-- Admin dashboard for bulk contest management
-
-#### ⏰ [Time-Table Generator](https://github.com/Sidhant185)
-Automated scheduling application using algorithmic logic to generate conflict-free academic timetables, optimizing time management for students.
-```
-Tech:  Python, Scheduling Algorithms
-```
+- Engineered from scratch in **24 hours** at a hackathon, now actively supporting **100+ students**
+- Monaco Editor integration delivering a native VS Code experience in the browser
+- Piston API implementation for secure, sandboxed code execution environments
+- Gemini AI evaluates code logic, identifies edge cases, and dynamically explains weaknesses
+- Smart practice engine utilizes a weighted algorithm to target learning gaps iteratively
+- Comprehensive admin dashboard for bulk contest and user management
 
 #### 🤖 [NOVA](https://github.com/Sidhant185/Nova) & [JARVIS](https://github.com/Sidhant185/jarvis)
-Advanced AI-powered personal assistant applications — automating daily tasks, processing natural language commands, and demonstrating applied AI/ML principles.
+Advanced AI-powered personal assistant agents designed for intelligent workflow automation. Capable of parsing natural language commands, executing complex system scripts, and orchestrating third-party API interactions.
+```text
+Architecture: Modular NLP pipeline, asynchronous task execution, speech-to-intent mapping
+Tech Stack:   Python, Speech Recognition, NLP, Automation Scripts
 ```
-Tech:  Python, Speech Recognition, NLP, API Integrations, Automation Scripts
+
+#### ⏰ [Algorithmic Time-Table Generator](https://github.com/Sidhant185)
+Constraint-satisfaction scheduling engine evaluating complex data constraints to autonomously generate optimized, conflict-free academic timetables, significantly reducing manual administrative bottlenecks.
+```text
+Tech Stack:   Python, Advanced Scheduling Algorithms, Data Structures
 ```
 
 
