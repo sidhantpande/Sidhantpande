@@ -48,24 +48,7 @@ I am a Full-Stack Software Engineer focused on designing indestructible, scalabl
 
 <br/>
 
-## 🌍 Open Source Contributions
 
-• **Neural-LAM Weather Forecasting Model**  
-• **Measurement Labs Infrastructure Research**  
-• **Learning Unlimited Community Contributions**
-
-<br/>
-
-## 🧠 Engineering Philosophy
-
-• Systems must scale before they are needed  
-• Automation beats manual operations  
-• Simplicity outperforms cleverness  
-• Every feature should justify its complexity
-
-<br/>
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" alt="Fire divider" width="100%" />
-<br/>
 
 ## ⚡ Tech Stack Architecture
 
@@ -154,21 +137,10 @@ I am a Full-Stack Software Engineer focused on designing indestructible, scalabl
   <a href="https://github.com/Sidhant185">
     <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Sidhant185&show_icons=true&theme=dark&title_color=B20000&icon_color=FFD700&text_color=E8EAF0&bg_color=0D1117&hide_border=true&border_color=B20000" alt="GitHub Stats" />
   </a>
-  <a href="https://github.com/Sidhant185">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sidhant185&layout=compact&theme=dark" alt="Top Languages" />
-  </a>
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sidhant185&theme=dark" alt="GitHub Streak" />
-</p>
-
-<br/>
-
-### ◈ Comprehensive GitHub Metrics 📊
-
-<p align="center">
-  <img src="https://metrics.lecoq.io/Sidhant185?template=classic&base=header,activity,community,repositories,metadata&config_timezone=Asia/Kolkata" alt="GitHub Metrics" />
 </p>
 
 <br/>
@@ -195,12 +167,6 @@ I am a Full-Stack Software Engineer focused on designing indestructible, scalabl
 <!-- END_SECTION:waka -->
 
 <br/>
-
-### ◈ GitHub Awards & Trophies 🏆
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sidhant185&theme=darkhub&no-frame=true&margin-w=10" alt="GitHub Trophies" />
-</p>
 
 <br/>
 
