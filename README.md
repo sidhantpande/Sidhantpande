@@ -130,9 +130,35 @@ I am a Full-Stack Software Engineer focused on designing indestructible, scalabl
     <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Sidhant185&show_icons=true&theme=dark&title_color=B20000&icon_color=FFD700&text_color=E8EAF0&bg_color=0D1117&hide_border=true&border_color=B20000" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/Sidhant185">
-    <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Sidhant185&layout=compact&theme=dark&title_color=B20000&icon_color=FFD700&text_color=E8EAF0&bg_color=0D1117&hide_border=true&border_color=B20000" alt="Top Languages" />
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sidhant185&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Top Languages" />
   </a>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sidhant185&theme=dark&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<br/>
+
+### ◈ Comprehensive GitHub Metrics 📊
+
+<p align="center">
+  <img src="https://metrics.lecoq.io/Sidhant185?template=classic&languages=1&habits=1&isocalendar=1&base=header,activity,community,repositories,metadata&config_timezone=Asia/Kolkata" alt="GitHub Metrics" />
+</p>
+
+<br/>
+
+### ◈ Global Visitor Demographics 🌍
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sidhant185&label=Global%20Views&color=B20000&style=for-the-badge&logo=github&logoColor=FFD700" alt="Profile Views" />
+</p>
+
+This demonstrates the global reach of my engineering projects and open-source contributions. 
+
+*(Note: If you have a custom domain/server routing you prefer for a raw Heatmap, I can integrate that tracking script/image here instead).*
+
+<br/>
 
 ### ◈ Contribution Heatmap
 
@@ -145,6 +171,23 @@ I am a Full-Stack Software Engineer focused on designing indestructible, scalabl
     </picture>
   </p>
 </div>
+
+<br/>
+
+### ◈ Live Coding Activity Tracker ⏱
+
+<!-- START_SECTION:waka -->
+<!-- END_SECTION:waka -->
+
+<br/>
+
+### ◈ GitHub Awards & Trophies 🏆
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Sidhant185&theme=darkhub&no-frame=true&margin-w=10" alt="GitHub Trophies" />
+</p>
+
+<br/>
 
 <br/>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" alt="Fire divider" width="100%" />
