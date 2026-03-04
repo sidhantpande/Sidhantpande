@@ -130,12 +130,12 @@ I am a Full-Stack Software Engineer focused on designing indestructible, scalabl
     <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Sidhant185&show_icons=true&theme=dark&title_color=B20000&icon_color=FFD700&text_color=E8EAF0&bg_color=0D1117&hide_border=true&border_color=B20000" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/Sidhant185">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sidhant185&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Top Languages" />
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sidhant185&layout=compact&theme=dark" alt="Top Languages" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sidhant185&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sidhant185&theme=dark" alt="GitHub Streak" />
 </p>
 
 <br/>
@@ -143,7 +143,7 @@ I am a Full-Stack Software Engineer focused on designing indestructible, scalabl
 ### ◈ Comprehensive GitHub Metrics 📊
 
 <p align="center">
-  <img src="https://metrics.lecoq.io/Sidhant185?template=classic&languages=1&habits=1&isocalendar=1&base=header,activity,community,repositories,metadata&config_timezone=Asia/Kolkata" alt="GitHub Metrics" />
+  <img src="https://metrics.lecoq.io/Sidhant185?template=classic&base=header,activity,community,repositories,metadata&config_timezone=Asia/Kolkata" alt="GitHub Metrics" />
 </p>
 
 <br/>
@@ -165,9 +165,9 @@ This demonstrates the global reach of my engineering projects and open-source co
 <div align="center">
   <p align="center">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sidhant185/Sidhant185/output/github-contribution-grid-snake-dark.svg?v=3">
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sidhant185/Sidhant185/output/github-contribution-grid-snake.svg?v=3">
-      <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Sidhant185/Sidhant185/output/github-contribution-grid-snake.svg?v=3">
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sidhant185/Sidhant185/output/github-contribution-grid-snake-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sidhant185/Sidhant185/output/github-contribution-grid-snake.svg">
+      <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Sidhant185/Sidhant185/output/github-contribution-grid-snake.svg">
     </picture>
   </p>
 </div>
@@ -177,6 +177,7 @@ This demonstrates the global reach of my engineering projects and open-source co
 ### ◈ Live Coding Activity Tracker ⏱
 
 <!-- START_SECTION:waka -->
+*(Coding activity metrics are currently syncing with GitHub Actions...)*
 <!-- END_SECTION:waka -->
 
 <br/>
