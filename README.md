@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Space+Grotesk&weight=700&size=40&pause=1000&color=2563EB&center=true&vCenter=true&width=800&height=100&lines=Hi,+I'm+Sidhant+Pande+🚀;Software+Engineer;AI+%26+Gen-AI+Integrator;Open+Source+Tech+Lead" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:2563EB,100:8E75B2&height=250&section=header&text=Sidhant%20Pande&fontSize=85&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20Integrator%20%7C%20Open%20Source%20Tech%20Lead&descAlignY=62&descFontSize=24&stroke=0D1117&strokeWidth=2" alt="Header" />
 </div>
 
 <!-- PROFILE VIEWS -->
