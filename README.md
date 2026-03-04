@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:B20000,100:FFD700&height=250&section=header&text=Sidhant%20Pande&fontSize=85&animation=twinkling&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20Integrator%20%7C%20Open%20Source%20Tech%20Lead&descAlignY=62&descFontSize=24&stroke=FFD700&strokeWidth=3" alt="Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=55&pause=1000&color=B20000&center=true&vCenter=true&width=800&height=100&lines=Sidhant+Pande" alt="Sidhant Pande" />
+  <br/>
+  <img src="https://readme-typing-svg.demolab.com?font=Rajdhani&weight=600&size=24&pause=1000&color=FFD700&center=true&vCenter=true&width=800&height=50&lines=Software+Engineer;AI+Integrator;Open+Source+Tech+Lead" alt="Software Engineer | AI Integrator | Open Source Tech Lead" />
 </div>
 
 <!-- PROFILE VIEWS -->
@@ -81,40 +83,35 @@ I am a Full-Stack Software Engineer focused on designing indestructible, scalabl
 
 ## 🚀 Portfolios of Work
 
-<h3>◈ Study Buddy (Hackathon Winner) <img src="https://img.shields.io/badge/LIVE-%E2%9C%93-B20000?style=for-the-badge&logoColor=FFD700" /></h3>
-<ul>
-  <li><b>Implementation:</b> Built from zero to production in 24 hours. Features native Monaco editor in-browser.</li>
-  <li><b>Tech Stack:</b> React 18, Vite, Node.js, Gemini 2.0 AI, Piston API.</li>
-  <li><b>Link:</b> <a href="https://github.com/Sidhant185/Study_Buddy"><code>[View Repository →]</code></a></li>
-</ul>
+### ◈ Study Buddy (Live Product & Hackathon Winner)
+> **An AI-native collaborative educational platform** built from zero to production in a high-pressure 24-hour sprint.
+* **Core Engineering:** Features a native Monaco editor (VS Code directly in the browser), sandboxed Piston API code execution environments, and a dynamic LLM (Gemini 2.0) core for evaluating user algorithmic logic.
+* **Tech Stack:** React 18, Vite, Node.js, Express, Gemini 2.0 AI, Piston API.
+* **Status:** <img src="https://img.shields.io/badge/LIVE-%E2%9C%93-B20000?style=flat-square&logoColor=FFD700" align="top"/> | <a href="https://github.com/Sidhant185/Study_Buddy"><b>[ View Source Code → ]</b></a>
 
-<h3>◈ Code Nexus Event Grid <img src="https://img.shields.io/badge/LIVE-%E2%9C%93-B20000?style=for-the-badge&logoColor=FFD700" /></h3>
-<ul>
-  <li><b>Implementation:</b> Processed 400 attendees in 30 hours with a 60% conversion rate. Zero downtime.</li>
-  <li><b>Tech Stack:</b> Distributed state management, responsive UI scaling, secure API routing.</li>
-  <li><b>Link:</b> <a href="https://github.com/Sidhant185"><code>[View Repository →]</code></a></li>
-</ul>
+<br/>
 
-<h3>◈ VST OpenSource Platform <img src="https://img.shields.io/badge/ONLINE-%E2%9C%93-B20000?style=for-the-badge&logoColor=FFD700" /></h3>
-<ul>
-  <li><b>Implementation:</b> End-to-end ecosystem managing 500+ active node registrations and content operations.</li>
-  <li><b>Tech Stack:</b> Vanilla JS, Firebase Firestore, GitHub REST/GraphQL API, CI/CD pipelines.</li>
-  <li><b>Links:</b> <a href="https://github.com/vstopensource-gif/Vedam-OpenSource-Website"><code>[Frontend Portal →]</code></a> | <a href="https://github.com/vstopensource-gif/Vedam-OpenSource-Admin"><code>[Admin Dashboard →]</code></a></li>
-</ul>
+### ◈ Code Nexus Event Grid
+> **A high-performance, scalable event management ecosystem.**
+* **Core Engineering:** Engineered to process enormous attendee spikes. Successfully processed over 400 attendees in 30 hours with a 60% conversion rate and absolute zero downtime. Built utilizing virtual scrolling and request deduplication.
+* **Tech Stack:** Distributed State Management, Secure API Routing, React, Scalable Node.js architectures.
+* **Status:** <img src="https://img.shields.io/badge/LIVE-%E2%9C%93-B20000?style=flat-square&logoColor=FFD700" align="top"/> | <a href="https://github.com/Sidhant185"><b>[ View Source Code → ]</b></a>
 
-<h3>◈ NOVA AI Engine <img src="https://img.shields.io/badge/BETA-%E2%9A%A1-B20000?style=for-the-badge&logoColor=FFD700" /></h3>
-<ul>
-  <li><b>Implementation:</b> Parses natural language into automated script orchestration and 3rd-party API interactions.</li>
-  <li><b>Tech Stack:</b> Python, Speech Recognition, NLP pipelines.</li>
-  <li><b>Link:</b> <a href="https://github.com/Sidhant185/NOVA"><code>[View Repository →]</code></a></li>
-</ul>
+<br/>
 
-<h3>◈ JARVIS Agent Protocol <img src="https://img.shields.io/badge/ACTIVE-%E2%9C%93-B20000?style=for-the-badge&logoColor=FFD700" /></h3>
-<ul>
-  <li><b>Implementation:</b> Asynchronous intelligent personal assistant agent automating system workflows.</li>
-  <li><b>Tech Stack:</b> Python, Automation Scripts, Speech-to-Intent mapping.</li>
-  <li><b>Link:</b> <a href="https://github.com/Sidhant185/JARVIS"><code>[View Repository →]</code></a></li>
-</ul>
+### ◈ VST OpenSource Platform Mainframe
+> **A centralized, autonomous mainframe engineered for the VST OpenSource Club.**
+* **Core Engineering:** An end-to-end ecosystem currently managing over 500+ active node registrations and content operations simultaneously. Integrated complex GitHub auto-syncs utilizing REST and GraphQL endpoints for automated content delivery.
+* **Tech Stack:** Vanilla JS (ES6+), Firebase Firestore, GitHub REST/GraphQL API, Automated CI/CD Pipelines.
+* **Status:** <img src="https://img.shields.io/badge/ONLINE-%E2%9C%93-B20000?style=flat-square&logoColor=FFD700" align="top"/> | <a href="https://github.com/vstopensource-gif/Vedam-OpenSource-Website"><b>[ Frontend Portal → ]</b></a> | <a href="https://github.com/vstopensource-gif/Vedam-OpenSource-Admin"><b>[ Admin Dashboard → ]</b></a>
+
+<br/>
+
+### ◈ Advanced AI Protocols (NOVA & JARVIS)
+> **Modular Natural Language Processing and Intelligent Agentic Control Systems.**
+* **Core Engineering:** Engineered custom intelligence agents capable of parsing pure natural language tasks through modular NLP pipelines. These pipelines direct asynchronous, intelligent script orchestration and maintain seamless integrations with 3rd-party APIs to autonomously manage system workflows.
+* **Tech Stack:** Python, Advanced Automation Scripts, Speech Recognition, Speech-to-Intent NLP Mapping.
+* **Status:** <img src="https://img.shields.io/badge/ACTIVE_BETA-%E2%9A%A1-B20000?style=flat-square&logoColor=FFD700" align="top"/> | <a href="https://github.com/Sidhant185/NOVA"><b>[ NOVA Engine → ]</b></a> | <a href="https://github.com/Sidhant185/JARVIS"><b>[ JARVIS Protocol → ]</b></a>
 
 <br/>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" alt="Fire divider" width="100%" />
