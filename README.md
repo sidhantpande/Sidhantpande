@@ -39,6 +39,31 @@ I am a Full-Stack Software Engineer focused on designing indestructible, scalabl
 </div>
 
 <br/>
+
+## 🔬 Currently Building
+
+• **Neural-LAM Weather Prediction Research**  
+• **AI-Native Collaborative Learning Systems**  
+• **Open Source Infrastructure for VST Community**
+
+<br/>
+
+## 🌍 Open Source Contributions
+
+• **Neural-LAM Weather Forecasting Model**  
+• **Measurement Labs Infrastructure Research**  
+• **Learning Unlimited Community Contributions**
+
+<br/>
+
+## 🧠 Engineering Philosophy
+
+• Systems must scale before they are needed  
+• Automation beats manual operations  
+• Simplicity outperforms cleverness  
+• Every feature should justify its complexity
+
+<br/>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" alt="Fire divider" width="100%" />
 <br/>
 
@@ -148,17 +173,7 @@ I am a Full-Stack Software Engineer focused on designing indestructible, scalabl
 
 <br/>
 
-### ◈ Global Visitor Demographics 🌍
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sidhant185&label=Global%20Views&color=B20000&style=for-the-badge&logo=github&logoColor=FFD700" alt="Profile Views" />
-</p>
-
-This demonstrates the global reach of my engineering projects and open-source contributions. 
-
-*(Note: If you have a custom domain/server routing you prefer for a raw Heatmap, I can integrate that tracking script/image here instead).*
-
-<br/>
 
 ### ◈ Contribution Heatmap
 
@@ -177,7 +192,6 @@ This demonstrates the global reach of my engineering projects and open-source co
 ### ◈ Live Coding Activity Tracker ⏱
 
 <!-- START_SECTION:waka -->
-*(Coding activity metrics are currently syncing with GitHub Actions...)*
 <!-- END_SECTION:waka -->
 
 <br/>
