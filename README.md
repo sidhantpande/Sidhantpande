@@ -124,13 +124,16 @@ Tech Stack:   Python, Advanced Scheduling Algorithms, Data Structures
 
 ## 📜 Certifications
 
-| Certification | Issuer |
-|---------------|--------|
-| Core Programming and Design Thinking | WhiteHat Jr |
-| Artificial Coding Curriculum Completion | WhiteHat Jr |
-| Java Basic Certificate | HackerRank |
-| Version Control | Meta |
-| UI/UX Designer for Game Development | WhiteHat Jr |
+<div align="center">
+  <br>
+  <img src="https://img.shields.io/badge/WhiteHat_Jr-Core_Programming_and_Design_Thinking-FF5722?style=for-the-badge&logo=whitehatjr&logoColor=white" />
+  <img src="https://img.shields.io/badge/WhiteHat_Jr-Artificial_Coding_Curriculum-FF5722?style=for-the-badge&logo=whitehatjr&logoColor=white" />
+  <img src="https://img.shields.io/badge/HackerRank-Java_Basic_Certificate-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/Meta-Version_Control-0467DF?style=for-the-badge&logo=meta&logoColor=white" />
+  <img src="https://img.shields.io/badge/WhiteHat_Jr-UI/UX_Designer_for_Game_Development-FF5722?style=for-the-badge&logo=whitehatjr&logoColor=white" />
+  <br><br>
+</div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Rainbow divider" width="100%" />
 
@@ -144,15 +147,11 @@ Tech Stack:   Python, Advanced Scheduling Algorithms, Data Structures
 
 <p align="center">
   <a href="https://github.com/Sidhant185">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Sidhant185&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Sidhant's GitHub Stats" />
+    <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Sidhant185&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Sidhant's GitHub Stats" />
   </a>
   <a href="https://github.com/Sidhant185">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sidhant185&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+    <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Sidhant185&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sidhant185&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Sidhant's Trophies" />
 </p>
 
 <p align="center">
@@ -193,7 +192,7 @@ I am inherently curious about complex technical bottlenecks and scalable system 
 
 ### 📬 Connect With Me
 
-<p align="left">
+<p align="center">
   <a href="https://sidhantpande.in"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=globe&logoColor=white&logoSize=large" /></a>
   <a href="mailto:sidhantpande222@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&logoSize=large" /></a>
   <a href="https://www.linkedin.com/in/sidhantpande/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&logoSize=large" /></a>
