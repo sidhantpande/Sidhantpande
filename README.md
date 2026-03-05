@@ -135,7 +135,10 @@ I am a Full-Stack Software Engineer focused on designing indestructible, scalabl
 
 <p align="center">
   <a href="https://github.com/Sidhant185">
-    <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Sidhant185&show_icons=true&theme=dark&title_color=B20000&icon_color=FFD700&text_color=E8EAF0&bg_color=0D1117&hide_border=true&border_color=B20000" alt="GitHub Stats" />
+    <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Sidhant185&show_icons=true&theme=dark&title_color=B20000&icon_color=FFD700&text_color=E8EAF0&bg_color=0D1117&hide_border=true&border_color=B20000" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/Sidhant185">
+    <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Sidhant185&layout=compact&theme=dark&title_color=B20000&icon_color=FFD700&text_color=E8EAF0&bg_color=0D1117&hide_border=true&border_color=B20000" alt="Top Languages" />
   </a>
 </p>
 
