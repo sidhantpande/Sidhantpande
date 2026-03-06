@@ -9,14 +9,42 @@
   <img src="https://komarev.com/ghpvc/?username=Sidhant185&color=B20000&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
 </p>
 
-<!-- INSTANT CONTACT SECTION -->
 <div align="center">
   <h3>Let's Connect</h3>
-  <a href="https://sidhantpande.in"><img src="https://img.shields.io/badge/Portfolio-sidhantpande.in-B20000?style=for-the-badge&logo=globe&logoColor=FFD700" /></a>
-  <a href="https://www.linkedin.com/in/sidhantpande/"><img src="https://img.shields.io/badge/LinkedIn-/in/sidhantpande-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:sidhantpande222@gmail.com"><img src="https://img.shields.io/badge/Email-sidhantpande222@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=FFD700" /></a>
-  <a href="https://github.com/Sidhant185"><img src="https://img.shields.io/badge/GitHub-/Sidhant185-100000?style=for-the-badge&logo=github&logoColor=FFD700" /></a>
-  <a href="https://instagram.com/sidhant908"><img src="https://img.shields.io/badge/Instagram-@sidhant908-E4405F?style=for-the-badge&logo=instagram&logoColor=FFD700" /></a>
+  <table>
+    <tr>
+      <td align="center" width="150">
+        <a href="https://sidhantpande.in">
+          <img src="https://img.shields.io/badge/PORTFOLIO-B20000?style=for-the-badge&logo=Web&logoColor=FFD700" alt="Portfolio" /><br>
+          <sub><b>sidhantpande.in</b></sub>
+        </a>
+      </td>
+      <td align="center" width="150">
+        <a href="https://www.linkedin.com/in/sidhantpande/">
+          <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /><br>
+          <sub><b>/in/sidhantpande</b></sub>
+        </a>
+      </td>
+      <td align="center" width="150">
+        <a href="mailto:sidhantpande222@gmail.com">
+          <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=FFD700" alt="Email" /><br>
+          <sub><b>Reach Out</b></sub>
+        </a>
+      </td>
+      <td align="center" width="150">
+        <a href="https://github.com/Sidhant185">
+          <img src="https://img.shields.io/badge/GITHUB-100000?style=for-the-badge&logo=github&logoColor=FFD700" alt="GitHub" /><br>
+          <sub><b>@Sidhant185</b></sub>
+        </a>
+      </td>
+      <td align="center" width="150">
+        <a href="https://instagram.com/sidhant908">
+          <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=FFD700" alt="Instagram" /><br>
+          <sub><b>@sidhant908</b></sub>
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br/>
@@ -209,12 +237,35 @@ JSON         6 mins                █░░░░░░░░░░░░░░
 ## 📜 Verified Certifications 
 
 <div align="center">
-  <img src="https://img.shields.io/badge/WhiteHat_Jr_—_Core_Programming-B20000?style=for-the-badge&logoColor=FFD700" />
-  <img src="https://img.shields.io/badge/WhiteHat_Jr_—_Artificial_Coding-B20000?style=for-the-badge&logoColor=FFD700" />
-  <img src="https://img.shields.io/badge/HackerRank_—_Java_Systems_Auth-B20000?style=for-the-badge&logoColor=FFD700" />
-  <br>
-  <img src="https://img.shields.io/badge/Meta_—_Version_Control-B20000?style=for-the-badge&logoColor=FFD700" />
-  <img src="https://img.shields.io/badge/WhiteHat_Jr_—_UI/UX_Game_Systems-B20000?style=for-the-badge&logoColor=FFD700" />
+  <table>
+    <tr>
+      <td align="center" width="250">
+        <img src="https://img.shields.io/badge/WhiteHat_Jr.-Core_Programming-B20000?style=for-the-badge&logoColor=FFD700" alt="Core Programming" /><br>
+        <sub><b>Certified Developer</b></sub>
+      </td>
+      <td align="center" width="250">
+        <img src="https://img.shields.io/badge/WhiteHat_Jr.-Artificial_Coding-B20000?style=for-the-badge&logoColor=FFD700" alt="Artificial Coding" /><br>
+        <sub><b>AI Systems Specialization</b></sub>
+      </td>
+      <td align="center" width="250">
+        <img src="https://img.shields.io/badge/HackerRank-Java_Systems_Auth-B20000?style=for-the-badge&logoColor=FFD700" alt="Java Systems" /><br>
+        <sub><b>Advanced Algorithms</b></sub>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="250">
+        <img src="https://img.shields.io/badge/Meta-Version_Control-B20000?style=for-the-badge&logoColor=FFD700" alt="Version Control" /><br>
+        <sub><b>Git/GitHub Mastery</b></sub>
+      </td>
+      <td align="center" width="250">
+        <img src="https://img.shields.io/badge/WhiteHat_Jr.-UI%2FUX_Game_Systems-B20000?style=for-the-badge&logoColor=FFD700" alt="UI/UX Game Design" /><br>
+        <sub><b>Interactive Design</b></sub>
+      </td>
+      <td align="center" width="250">
+        <!-- Placeholder to balance the 3-column table if only 5 certs -->
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br/>
