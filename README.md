@@ -16,31 +16,31 @@
       <td align="center" width="150">
         <a href="https://sidhantpande.in">
           <img src="https://img.shields.io/badge/PORTFOLIO-B20000?style=for-the-badge&logo=Web&logoColor=FFD700" alt="Portfolio" /><br>
-          <sub><b>sidhantpande.in</b></sub>
+          <img src="https://img.shields.io/badge/sidhantpande.in-0D1117?style=flat-square&logoColor=FFD700" alt="Link" />
         </a>
       </td>
       <td align="center" width="150">
         <a href="https://www.linkedin.com/in/sidhantpande/">
           <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /><br>
-          <sub><b>/in/sidhantpande</b></sub>
+          <img src="https://img.shields.io/badge/in/sidhantpande-0D1117?style=flat-square&logoColor=white" alt="Link" />
         </a>
       </td>
       <td align="center" width="150">
         <a href="mailto:sidhantpande222@gmail.com">
           <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=FFD700" alt="Email" /><br>
-          <sub><b>Reach Out</b></sub>
+          <img src="https://img.shields.io/badge/Direct_Message-0D1117?style=flat-square&logoColor=FFD700" alt="Link" />
         </a>
       </td>
       <td align="center" width="150">
         <a href="https://github.com/Sidhant185">
           <img src="https://img.shields.io/badge/GITHUB-100000?style=for-the-badge&logo=github&logoColor=FFD700" alt="GitHub" /><br>
-          <sub><b>@Sidhant185</b></sub>
+          <img src="https://img.shields.io/badge/@Sidhant185-0D1117?style=flat-square&logoColor=FFD700" alt="Link" />
         </a>
       </td>
       <td align="center" width="150">
         <a href="https://instagram.com/sidhant908">
           <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=FFD700" alt="Instagram" /><br>
-          <sub><b>@sidhant908</b></sub>
+          <img src="https://img.shields.io/badge/@sidhant908-0D1117?style=flat-square&logoColor=FFD700" alt="Link" />
         </a>
       </td>
     </tr>
