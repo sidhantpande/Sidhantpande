@@ -164,6 +164,21 @@ I am a Full-Stack Software Engineer focused on designing indestructible, scalabl
 
 <br/>
 
+### ◈ Recent Activity Feed 📡
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+<br/>
+
+### ◈ 3D Contribution Calendar 🧊
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Sidhant185/Sidhant185/main/profile-3d-contrib/profile-gitblock.svg" alt="3D GitHub Contributions" />
+</div>
+
+<br/>
+
 ### ◈ Live Coding Activity Tracker ⏱
 
 <!--START_SECTION:waka-->
