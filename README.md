@@ -207,7 +207,7 @@ I am a Full-Stack Software Engineer focused on designing indestructible, scalabl
 ### ◈ 3D Contribution Calendar 🧊
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Sidhant185/Sidhant185/main/profile-3d-contrib/profile-gitblock.svg" alt="3D GitHub Contributions" />
+  <img src="https://raw.githubusercontent.com/Sidhant185/Sidhant185/main/profile-3d-contrib/profile-night-view.svg" alt="3D GitHub Contributions Night View" />
 </div>
 
 <br/>
