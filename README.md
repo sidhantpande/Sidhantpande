@@ -167,6 +167,15 @@ I am a Full-Stack Software Engineer focused on designing indestructible, scalabl
 ### ◈ Live Coding Activity Tracker ⏱
 
 <!--START_SECTION:waka-->
+
+```txt
+Java         51 mins               █████████▒░░░░░░░░░░░░░░░   37.37 %
+JavaScript   33 mins               ██████░░░░░░░░░░░░░░░░░░░   24.50 %
+HTML         21 mins               ████░░░░░░░░░░░░░░░░░░░░░   15.40 %
+Markdown     17 mins               ███░░░░░░░░░░░░░░░░░░░░░░   12.34 %
+JSON         6 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 %
+```
+
 <!--END_SECTION:waka-->
 
 <br/>
