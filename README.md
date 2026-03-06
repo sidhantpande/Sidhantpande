@@ -166,8 +166,8 @@ I am a Full-Stack Software Engineer focused on designing indestructible, scalabl
 
 ### ◈ Live Coding Activity Tracker ⏱
 
-<!-- START_SECTION:waka -->
-<!-- END_SECTION:waka -->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <br/>
 
